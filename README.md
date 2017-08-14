@@ -4,7 +4,7 @@ A Node.js bot that automates several actions on Twitter, such as replying to peo
 
 # Dependencies
 
-1. Must have node and npm installed on your machine
+1. Must have node and npm installed on your machine<br>
   a. npm install -g
 2. You will need to install Twit
   a. npm install twit
