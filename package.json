@@ -1,0 +1,29 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot Project",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hphuyn3d/Twitter-bot.git"
+  },
+  "keywords": [
+    "awesome",
+    "twitter",
+    "bot"
+  ],
+  "author": "Hung Huynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hphuyn3d/Twitter-bot/issues"
+  },
+  "homepage": "https://github.com/hphuyn3d/Twitter-bot#readme",
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "twit": "^2.2.9"
+  }
+}
